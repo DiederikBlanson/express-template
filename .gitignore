@@ -1,0 +1,6 @@
+app/node_modules
+app/.env*
+app/package-lock.json
+app/build
+.DS_Store
+DS_Store
